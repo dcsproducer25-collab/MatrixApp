@@ -24,10 +24,30 @@ Aplicativo modular desenvolvido em **React Native** com **Expo SDK 54.0**, focad
 
 ---
 
+## 👨‍🎓 Autor
+
+**DcsProducer**  
+Estudante de Engenharia de Software  
+Corumbá - MS, Brasil  
+[LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com/dcsproducer29-collab)
+
+---
+
 ## 📦 Instalação
 
 ```bash
-git clone https://github.com/dcsproducer25-collab/MatrixApp.git
+git clone https://github.com/dcsproducer29-collab/MatrixApp.git
 cd MatrixApp
 npm install
 npx expo start
+
+## 🧠 Expansão futura com IA Generativa
+
+O MatrixApp está preparado para evoluir com integração de IA generativa, permitindo:
+
+- Resumo de textos e documentos
+- Tradução inteligente entre idiomas
+- Assistente pessoal com voz e imagem
+- Geração de quizzes e explicações para estudo
+
+Essa expansão será aplicada em fases, com foco em aprendizado, acessibilidade e inovação.'' '
