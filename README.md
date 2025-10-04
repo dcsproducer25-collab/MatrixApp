@@ -1,51 +1,53 @@
 # MatrixApp
 
-Aplicativo modular desenvolvido em **Rea>
+Aplicativo modular desenvolvido em **React Native** com **Expo SDK 54.0**, focado em navegação por abas, modais e componentes reutilizáveis. Criado como parte do portfólio acadêmico de Engenharia de Software.
 
 ---
 
 ## 🚀 Funcionalidades
 
 - Navegação com `expo-router`
-- Telas modulares: Home, Perfil, Configu>
-- Componentes reutilizáveis com estilo p>
-- Assets visuais otimizados (ícones, spl>
-- Estrutura pronta para integração com A>
+- Telas modulares: Home, Perfil, Configurações
+- Componentes reutilizáveis com estilo personalizado
+- Assets visuais otimizados (ícones, splash, logos)
+- Estrutura pronta para integração com API ou banco de dados
 
+---
 
 ## 🛠️ Tecnologias utilizadas
 
-- [React Native](https://reactnative.dev>
+- [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
-- [TypeScript](https://www.typescriptlan>
-- [Expo Router](https://expo.github.io/r>
+- [TypeScript](https://www.typescriptlang.org/)
+- [Expo Router](https://expo.github.io/router/)
 - Git e GitHub
 
 ---
-👨‍🎓 Autor
 
--DcsProducer
--Estudante de Engenharia de Software
--Corumbá - MS, Brasil
--LinkedIn | GitHub
+## 👨‍🎓 Autor
+
+**DcsProducer**  
+Estudante de Engenharia de Software  
+Corumbá - MS, Brasil  
+[LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com/dcsproducer29-collab)
+
+---
 
 ## 📦 Instalação
 
 ```bash
-git clone https://github.com/dcsproducer>
-||cd MatrixApp
+git clone https://github.com/dcsproducer29-collab/MatrixApp.git
+cd MatrixApp
 npm install
-npx expo start'''
+npx expo start
 
-##✨ Contribuições
--Sugestões, melhorias ou colaborações são>
--Abra uma issue ou envie um pull request.
+## 🧠 Expansão futura com IA Generativa
 
-##📱 Preview
+O MatrixApp está preparado para evoluir com integração de IA generativa, permitindo:
 
-Em breve: imagens do app rodando no Expo>
-> Você pode escanear o QR Code com o app>
+- Resumo de textos e documentos
+- Tradução inteligente entre idiomas
+- Assistente pessoal com voz e imagem
+- Geração de quizzes e explicações para estudo
 
-##📄 Licença
-
-Este projeto está sob a licença MIT. Vej>
+Essa expansão será aplicada em fases, com foco em aprendizado, acessibilidade e inovação.'' '
