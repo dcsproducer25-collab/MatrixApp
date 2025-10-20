@@ -1,6 +1,6 @@
 # MatrixApp
 
-Aplicativo modular desenvolvido em **React Native** com **Expo SDK 54.0**, focado em navegação por abas, modais e componentes reutilizáveis. Criado como parte do portfólio acadêmico de Engenharia de Software.
+Aplicativo modular desenvolvido em **React Native** com **Expo SDK 54.0**, focado em navegação por abas, modais e componentes reutilizáveis. Criado como parte do trabalho de extensão e portfólio acadêmico de Engenharia de Software.
 
 ---
 
