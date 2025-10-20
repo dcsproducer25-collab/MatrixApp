@@ -45,6 +45,7 @@ npx expo start
 
 O MatrixApp está preparado para evoluir com integração de IA generativa, permitindo:
 
+- Sistemas de Vendas e Controle RMC de clientes 
 - Resumo de textos e documentos
 - Tradução inteligente entre idiomas
 - Assistente pessoal com voz e imagem
