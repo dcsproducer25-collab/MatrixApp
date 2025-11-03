@@ -7,7 +7,7 @@
     "icon": "./assets/images/icon.png",
     "scheme": "matrixapp",
     "userInterfaceStyle": "automatic",
-"router": {
+    "router": {
       "initialRouteName": "home",
       "appRoot": "app"
     },

@@ -1,0 +1,24 @@
+{
+  "rules": {
+    "estoque": {
+      ".read": true,
+      ".write": true
+    },
+    "usuarios": {
+      ".read": false,
+      ".write": true
+    },
+    "vendas": {
+      ".read": true,
+      ".write": false
+    },
+    "relatorios": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    },
+    "admin": {
+      ".read": "auth.token.email === 'dinocsoares@hotmail.com' || auth.token.email === 'dcsproducer25@gmail.com'",
+      ".write": "auth.token.email === 'dinocsoares@hotmail.com' || auth.token.email === 'dcsproducer25@gmail.com'"
+    }
+  }
+}
