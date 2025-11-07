@@ -1,8 +1,8 @@
 # MatrixApp
 
 <<<<<<< HEAD
-Aplicativo Android desenvolvido com React Native + Expo para automatizar o controle de vendas e estoque da Lanchonete Sabor da Vila.
-======= Aplicativo modular desenvolvido em React Native com Expo SDK 54.0, focado em navegação por abas, modais e componentes reutilizáveis. Criado como parte do trabalho de extensão, portfólio acadêmico e Projeto final de Engenharia de Software.
+Aplicativo Android modular desenvolvido em React Native com Expo SDK 54.0, desenvolvido para automatizar o controle de vendas e estoque da Lanchonete Sabor da Vila.
+Gerenciamento focado em navegação por abas, modais e componentes reutilizáveis. Criado como parte do trabalho de extensão, portfólio acadêmico e Projeto final de Engenharia de Software.
 
 ## 🚀 Funcionalidades
 
