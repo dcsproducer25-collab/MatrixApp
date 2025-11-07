@@ -2,8 +2,9 @@
 
 <<<<<<< HEAD
 Aplicativo Android desenvolvido com React Native + Expo para automatizar o controle de vendas e estoque da Lanchonete Sabor da Vila.
+======= Aplicativo modular desenvolvido em React Native com Expo SDK 54.0, focado em navegação por abas, modais e componentes reutilizáveis. Criado como parte do trabalho de extensão, portfólio acadêmico e Projeto final de Engenharia de Software.
 
-## Funcionalidades
+## 🚀 Funcionalidades
 
 - Autenticação com Firebase
 - Proteção de rotas com AuthGuard
@@ -12,49 +13,30 @@ Aplicativo Android desenvolvido com React Native + Expo para automatizar o contr
 - Relatórios de vendas
 - Controle de estoque
 - Dashboard com gráficos interativos
+- Navegação com `expo-router`
+- Telas modulares: Home, Perfil, Configurações
+- Componentes reutilizáveis com estilo personalizado
+- Assets visuais otimizados (ícones, splash, logos)
+- Estrutura pronta para integração com API ou banco de dados
 - Tela de perfil com logout
 
-## Tecnologias
+## 🛠️ Tecnologias utilizadas
 
-- React Native
-- Expo
+- React Native(https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+[TypeScript](https://www.typescriptlang.org/)
+- [Expo Router](https://expo.github.io/router/)
+- Git e GitHub
 - Firebase (Auth + Realtime Database)
 - React Navigation
 - react-native-chart-kit
-
+ 
 ## Como rodar
 
 1. Clone o repositório  
 2. Instale as dependências com `npm install`  
 3. Execute com `expo start`  
 4. Escaneie o QR code com o app Expo Go
-
-## Autores
-
-- Dinoel da Costa Soares (DcsProducer)
-
-=======
-Aplicativo modular desenvolvido em **React Native** com **Expo SDK 54.0**, focado em navegação por abas, modais e componentes reutilizáveis. Criado como parte do trabalho de extensão, portfólio acadêmico e Projeto final de Engenharia de Software.
-
----
-
-## 🚀 Funcionalidades
-
-- Navegação com `expo-router`
-- Telas modulares: Home, Perfil, Configurações
-- Componentes reutilizáveis com estilo personalizado
-- Assets visuais otimizados (ícones, splash, logos)
-- Estrutura pronta para integração com API ou banco de dados
-
----
-
-## 🛠️ Tecnologias utilizadas
-
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Expo Router](https://expo.github.io/router/)
-- Git e GitHub
 
 ---
 
@@ -98,6 +80,7 @@ MatrixApp/
 ## 👨‍🎓 Autor
 
 **DcsProducer**  
+Dinoel da Costa Soares
 Estudante de Engenharia de Software  
 Corumbá - MS, Brasil  
 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com/dcsproducer25-collab)
