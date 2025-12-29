@@ -1,50 +1,21 @@
-# MatrixApp (Trabalho de Extensão)
+# MatrixApp
 
-> 📘 Este projeto teve início como parte do portfólio acadêmico e projeto final de Engenharia de Software, com foco em reintegração por etapas. Atualmente, encontra-se em fase de desenvolvimento no contexto do trabalho de extensão universitária, com ênfase em acessibilidade, inovação e integração com IA generativa.
+**Sistema Modular para Gestão Inteligente de Pequenos Negócios**
 
-Aplicativo Android desenvolvido com **React Native + Expo** para automatizar o controle de vendas e estoque da **Lanchonete Sabor da Vila**, com foco em acessibilidade e inovação.
+MatrixApp é um aplicativo desenvolvido em **React Native com Expo SDK 54.0**, voltado para empreendedores, estudantes e desenvolvedores que desejam explorar uma estrutura escalável e inteligente para gestão de vendas, estoque, relatórios e colaboradores.
 
----
+## 📦 Funcionalidades
 
-## 🧠 Fase Atual: Integração com IA Generativa
+- Dashboard com métricas em tempo real
+- Controle de vendas e estoque
+- Relatórios gerenciais
+- Autenticação de usuários
+- Integração com Firebase
+- Módulo GenAI para sugestões inteligentes (em desenvolvimento)
 
-O MatrixApp está evoluindo com foco em IA generativa, aplicada ao contexto do trabalho de extensão. Essa fase busca ampliar o impacto social e educacional do app, com funcionalidades como:
+## 🚀 Como rodar o projeto
 
-- Resumo inteligente de textos e documentos
-- Tradução automática entre idiomas
-- Assistente pessoal com voz e imagem
-- Geração de quizzes e explicações para estudo
-- Sistema de controle de clientes (RMC)
-
----
-
-## 🚀 Funcionalidades
-
-- Autenticação com Firebase
-- Proteção de rotas com AuthGuard
-- Painel administrativo
-- Cadastro de usuários
-- Relatórios de vendas
-- Controle de estoque
-- Dashboard com gráficos interativos
-- Tela de perfil com logout
-
----
-
-## 🛠️ Tecnologias utilizadas
-
-- React Native
-- Expo
-- Firebase (Auth + Realtime Database)
-- React Navigation
-- react-native-chart-kit
-
----
-
-## 📦 Como rodar
-
-```bash
-git clone https://github.com/dcsproducer25-collab/MatrixApp.git
-cd MatrixApp
-npm install
-npx expo start
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/dcsproducer25-collab/MatrixApp.git
+   cd MatrixApp
